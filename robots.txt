@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: registraciya-v-kazino-bez-dokumentov.github.io
+Sitemap: https://registraciya-v-kazino-bez-dokumentov.github.io/sitemap.xml
